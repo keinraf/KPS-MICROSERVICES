@@ -16,6 +16,7 @@ public class Curso {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_curso")
     private Long id;
+    private String nombre;
     private String horarios;
     private Integer capacidad;
     private Integer codigo;
