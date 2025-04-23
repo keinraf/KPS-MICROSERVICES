@@ -10,7 +10,7 @@ spring:
         git:
           uri: https://github.com/keinraf/KPS-MICROSERVICES.git
           searchPaths: config-data
-          default-label: main
+          default-label: PRINCIPALCITO
   security:
     user:
       name: howard
