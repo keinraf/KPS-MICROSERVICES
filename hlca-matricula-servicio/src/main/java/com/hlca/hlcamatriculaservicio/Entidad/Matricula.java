@@ -39,4 +39,13 @@ public class Matricula {
     private Long estudianteId;
     @Transient
     private EstudianteDto estudiante;
+
+    /// {
+    ///     "cicloMatricula": 20251,
+    ///     "fechaMatricula": "15-03-2025",
+    ///     "cursoId": 1,
+    ///     "curso": null,
+    ///     "estudianteId": 1,
+    ///     "estudiante": null
+    ///   },
 }
